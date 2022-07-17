@@ -2,7 +2,6 @@
 
 - 👨‍💻 Atualmente: Desenvolvedor Front-End.
 - 🖥️ Experiência em: Javascript - Typescript - Reactjs - Nextjs.
-- ⌨️ Estudando: React Native - Nodejs
 - 🌱 Futuro: Engenheiro de software.
 ##
 
