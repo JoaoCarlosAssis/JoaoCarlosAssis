@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente: Desenvolvedor Front-End.
 - 🖥️ Experiência em: Javascript - Typescript - Reactjs - Nextjs.
-- 👀 Estudos em: Java - C - Rust - C++ - Python.
+- 👀 Estudos em: Java - Rust - C++ - Python.
 - 🌱 Futuro: Engenheiro de software.
 ##
 
